@@ -2,6 +2,8 @@
 
 This project showcases an interactive carousel for Apple's AirPods Max headphones. The carousel allows users to explore different color variations of the AirPods Max headphones, view their features, and access purchasing options. The project consists of an HTML file, a CSS file, and a JavaScript file.
 
+![Screenshot](img/screenshot.png)
+
 ## Getting Started
 
 To get started with this project, clone the repository or download the necessary files.
@@ -42,3 +44,9 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 - Special thanks to the creators of GSAP for providing a powerful animation library.
 - The project is developed solely for educational and demonstration purposes.
+
+---
+
+**Note:**
+
+If you use this code or find it helpful, I would appreciate if you could send me an email at sanchitdogra5@gmail.com, sharing how you utilized it. I would love to know about your project and how this code contributed to it.
