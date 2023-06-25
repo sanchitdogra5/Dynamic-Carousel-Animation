@@ -14,8 +14,11 @@ To get started with this project, clone the repository or download the necessary
 
 ### Installation
 
+
 1. Clone the repository:
-   git clone https://github.com/your-username/airpods-max-carousel.git
+
+   ```shell
+   git clone https://github.com/sanchitdogra5/Dynamic-Carousel-Animation.git
 
 2. Open the index.html file in your web browser.
 
